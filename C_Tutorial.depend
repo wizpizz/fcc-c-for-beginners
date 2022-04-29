@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1651253885 source:e:\oender\coding\code blocks\c_tutorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650547695 source:e:\oender\coding\code blocks\c_tutorial\drawing_a_shape.c
+	<stdio.h>
+	<stdlib.h>
+
+1650547928 source:e:\oender\coding\code blocks\c_tutorial\data_types.c
+	<stdio.h>
+	<stdlib.h>
+
+1650547699 source:e:\oender\coding\code blocks\c_tutorial\variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1650548348 source:e:\oender\coding\code blocks\c_tutorial\printf.c
+	<stdio.h>
+	<stdlib.h>
+
+1650548780 source:e:\oender\coding\code blocks\c_tutorial\working_with_numbers.c
+	<stdio.h>
+	<stdlib.h>
+
+1650548947 source:e:\oender\coding\code blocks\c_tutorial\comments.c
+	<stdio.h>
+	<stdlib.h>
+
+1650549865 source:e:\oender\coding\code blocks\c_tutorial\constants.c
+	<stdio.h>
+	<stdlib.h>
+
+1650550703 source:e:\oender\coding\code blocks\c_tutorial\getting_user_input.c
+	<stdio.h>
+	<stdlib.h>
+
+1650620872 source:e:\oender\coding\code blocks\c_tutorial\building_a_basic_calculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1650621326 source:e:\oender\coding\code blocks\c_tutorial\building_a_mad_libs_game.c
+	<stdio.h>
+	<stdlib.h>
+
+1650621892 source:e:\oender\coding\code blocks\c_tutorial\arrays.c
+	<stdio.h>
+	<stdlib.h>
+
+1650622307 source:e:\oender\coding\code blocks\c_tutorial\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1650623435 source:e:\oender\coding\code blocks\c_tutorial\return_statement.c
+	<stdio.h>
+	<stdlib.h>
+
+1650624098 source:e:\oender\coding\code blocks\c_tutorial\if_statements.c
+	<stdio.h>
+	<stdlib.h>
+
+1650907939 source:e:\oender\coding\code blocks\c_tutorial\building_a_better_calculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1650908205 source:e:\oender\coding\code blocks\c_tutorial\switch_statements.c
+	<stdio.h>
+	<stdlib.h>
+
+1650908816 source:e:\oender\coding\code blocks\c_tutorial\structs.c
+	<stdio.h>
+	<stdlib.h>
+
+1650909134 source:e:\oender\coding\code blocks\c_tutorial\while_loops.c
+	<stdio.h>
+	<stdlib.h>
+
+1651085558 source:e:\oender\coding\code blocks\c_tutorial\building_a_guessing_game.c
+	<stdio.h>
+	<stdlib.h>
+
+1651252639 source:e:\oender\coding\code blocks\c_tutorial\for_loops.c
+	<stdio.h>
+	<stdlib.h>
+
+1651253259 source:e:\oender\coding\code blocks\c_tutorial\2d_arrays_&_nested_for_loops.c
+	<stdio.h>
+	<stdlib.h>
+
+1651253401 source:e:\oender\coding\code blocks\c_tutorial\memory_addresses.c
+	<stdio.h>
+	<stdlib.h>
+
+1651253828 source:e:\oender\coding\code blocks\c_tutorial\pointers.c
+	<stdio.h>
+	<stdlib.h>
+
+1651254087 source:e:\oender\coding\code blocks\c_tutorial\dereferencing_pointers.c
+	<stdio.h>
+	<stdlib.h>
+
+1651254586 source:e:\oender\coding\code blocks\c_tutorial\writing_files.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C_Tutorial" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C_Tutorial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C_Tutorial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="2d_arrays_&amp;_nested_for_loops.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arrays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="building_a_basic_calculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="building_a_better_calculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="building_a_guessing_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="building_a_mad_libs_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="comments.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="constants.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="data_types.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dereferencing_pointers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="drawing_a_shape.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for_loops.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getting_user_input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="if_statements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memory_addresses.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reading.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="return_statement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="switch_statements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="variables.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="while_loops.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="working_with_numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="writing_files.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
